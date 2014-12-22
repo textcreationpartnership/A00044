@@ -35,9 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A declaration of certaine principall articles of religion set out by the order of both archbishops m
+
+1. ❧A declaration of certaine principall Articles of Religion,
+ſet out by the order of both Archbiſhops Metropolitans, and the reſt of the Byſhops,
+for the vnitie of doctrine to be taught and holden of all Parſons, Vicars, and Curates, aſwell in teſtification of their
+common conſent in the ſayde doctrine, to the ſtopping of the mouthes of them that go about to ſlaunder the miniſters of the Church
+for diuerſitie of iudgement: as neceſſarie for the inſtruction of their people, to be read by the ſayd Parſons, Vicars, and Curates,
+at their poſſeſſion taking o• firſt entrie into their Cures: And alſo after that yeerely at two ſeuerall times. That is to ſay,
+the Sundayes next following Eaſter day and Saint Michael tharchan•ell, or on ſome other
+Sunday within one moneth after thoſe feaſtes, immediatly after the Goſpell.
+
 #####Back#####
-A declaration of certaine principall articles of religion set out by the order of both archbishops m
+¶Imprinted at London by Chriſtopher Barker, printer
+to the Queenes Maieſtie.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
